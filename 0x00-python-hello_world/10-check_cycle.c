@@ -1,5 +1,3 @@
-10-check_cycle.c
-
 #include "lists.h"
 
 /**
